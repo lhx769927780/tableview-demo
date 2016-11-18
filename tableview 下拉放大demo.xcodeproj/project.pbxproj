@@ -14,6 +14,7 @@
 		B77CDCA91DCB19BE003CF303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B77CDCA81DCB19BE003CF303 /* Assets.xcassets */; };
 		B77CDCAC1DCB19BE003CF303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B77CDCAA1DCB19BE003CF303 /* LaunchScreen.storyboard */; };
 		B77CDCB71DCB19BE003CF303 /* tableview_____demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B77CDCB61DCB19BE003CF303 /* tableview_____demoTests.m */; };
+		B77CDCC21DCB1BA5003CF303 /* Cyuri03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B77CDCC11DCB1BA5003CF303 /* Cyuri03.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		B77CDCB21DCB19BE003CF303 /* tableview 下拉放大demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tableview 下拉放大demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B77CDCB61DCB19BE003CF303 /* tableview_____demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "tableview_____demoTests.m"; sourceTree = "<group>"; };
 		B77CDCB81DCB19BE003CF303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B77CDCC11DCB1BA5003CF303 /* Cyuri03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cyuri03.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		B77CDC9B1DCB19BE003CF303 /* tableview 下拉放大demo */ = {
 			isa = PBXGroup;
 			children = (
+				B77CDCC11DCB1BA5003CF303 /* Cyuri03.jpg */,
 				B77CDC9F1DCB19BE003CF303 /* AppDelegate.h */,
 				B77CDCA01DCB19BE003CF303 /* AppDelegate.m */,
 				B77CDCA21DCB19BE003CF303 /* ViewController.h */,
@@ -194,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B77CDCAC1DCB19BE003CF303 /* LaunchScreen.storyboard in Resources */,
+				B77CDCC21DCB1BA5003CF303 /* Cyuri03.jpg in Resources */,
 				B77CDCA91DCB19BE003CF303 /* Assets.xcassets in Resources */,
 				B77CDCA71DCB19BE003CF303 /* Main.storyboard in Resources */,
 			);
